@@ -1,0 +1,9 @@
+***Report Card***
+***Course name: Python for Beginners***
+==================================================
+Student Name: Sam J
+Assignment-1 Score: 23.0
+Assignment-2 Score: 45.0
+Exam Score: 79.0
+Final score: 76.25
+Grade/Remark: B(Good)

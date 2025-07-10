@@ -1,0 +1,9 @@
+***Report Card***
+***Course name: Python for Beginners***
+==================================================
+Student Name: Ravi S
+Assignment-1 Score: 25.5
+Assignment-2 Score: 34.5
+Exam Score: 87.0
+Final score: 80.25
+Grade/Remark: A(Very Good)
